@@ -1,3 +1,3 @@
 print(' boys')
-print('not only boys but also animals')
-print('adddd')
+print('boys but also animals')
+print('addd')
