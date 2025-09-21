@@ -1,0 +1,2 @@
+print('gosj')
+print('gosj')
